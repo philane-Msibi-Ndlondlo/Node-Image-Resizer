@@ -13,9 +13,9 @@ ___
 
 ## Installation Instructions
 
-1. Install Node JS here
+1. Install Node JS [here](https://nodejs.org/en/)
 
-2. Clone project using this command on Terminal/CMD: git clone
+2. Clone project using this command on Terminal/CMD: git clone https://github.com/philane-Msibi-Ndlondlo/Node-Image-Resizer.git
 
 3. Go to the cloned project root and run this command: npm install
 
