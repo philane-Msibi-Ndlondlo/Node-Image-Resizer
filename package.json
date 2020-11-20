@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
-    "jimp": "^0.16.1"
+    "jimp": "^0.16.1",
+    "platform-folders": "^0.5.2"
   }
 }
