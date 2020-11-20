@@ -9,7 +9,8 @@ ___
 
 1. Node JS
 2. Jimp Package
-3. Chalk
+3. platform-folders package
+4. Chalk
 
 ## Installation Instructions
 
