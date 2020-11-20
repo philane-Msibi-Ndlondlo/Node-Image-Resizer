@@ -12,7 +12,7 @@ Jimp.read(imageToBeResized)
       .quality(100) // set JPEG quality
       .write(`${pathFinder.getDesktopFolder()}\\newimage.jpg`); // save
 
-      console.log(chalk.green(`Image has been resized successfully. Image path ${pathFinder.getDesktopFolder()}\\newimage.jpg`))
+      console.log(chalk.green(`Image has been resized successfully. Image path: ${pathFinder.getDesktopFolder()}\\newimage.jpg`))
 
       return resizedImage;
   })
